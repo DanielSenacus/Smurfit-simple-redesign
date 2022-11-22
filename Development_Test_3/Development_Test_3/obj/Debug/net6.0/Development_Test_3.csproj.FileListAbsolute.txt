@@ -1,0 +1,15 @@
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\bin\Debug\net6.0\Development_Test_3.exe
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\bin\Debug\net6.0\Development_Test_3.deps.json
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\bin\Debug\net6.0\Development_Test_3.runtimeconfig.json
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\bin\Debug\net6.0\Development_Test_3.dll
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\bin\Debug\net6.0\Development_Test_3.pdb
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\Development_Test_3.csproj.AssemblyReference.cache
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\Development_Test_3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\Development_Test_3.AssemblyInfoInputs.cache
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\Development_Test_3.AssemblyInfo.cs
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\Development_Test_3.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\Development_Test_3.dll
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\refint\Development_Test_3.dll
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\Development_Test_3.pdb
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\Development_Test_3.genruntimeconfig.cache
+C:\Users\Usuario\Desktop\myapp\Development-Test\Development_Test_3\Development_Test_3\obj\Debug\net6.0\ref\Development_Test_3.dll
