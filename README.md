@@ -1,1 +1,0 @@
-# Smurfit-simple-redesign
